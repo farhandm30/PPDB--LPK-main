@@ -1,0 +1,14 @@
+{
+    "The :attribute field is required.": "Kolom :attribute wajib diisi.",
+    "This field is required.": "Kolom ini wajib diisi.",
+    "validation.required": "Kolom ini wajib diisi.",
+    "validation.unique": "Data ini sudah digunakan.",
+    "validation.email": "Format email tidak valid.",
+    "validation.min.string": "Kolom ini minimal harus :min karakter.",
+    "validation.max.string": "Kolom ini tidak boleh lebih dari :max karakter.",
+    "validation.numeric": "Kolom ini harus berupa angka.",
+    "validation.date": "Kolom ini bukan tanggal yang valid.",
+    "validation.image": "File harus berupa gambar.",
+    "validation.mimes": "File harus bertipe: :values.",
+    "validation.max.file": "Ukuran file tidak boleh lebih dari :max kilobytes."
+}
