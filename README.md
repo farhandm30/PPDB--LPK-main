@@ -16,6 +16,16 @@
 -   Pengaturan Aplikasi
 -   Frontend Pendaftaran Siswa
 
+## Instalasi
+
+1. Clone repository
+2. Jalankan `composer install`
+3. Salin `.env.example` ke `.env` dan sesuaikan konfigurasi database
+4. Jalankan `php artisan key:generate`
+5. Jalankan `php artisan migrate --seed`
+6. Jalankan `npm install && npm run dev`
+7. Jalankan `php artisan serve`
+
 
 ## Login Admin
 
